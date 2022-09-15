@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### `client` - Holds the client application
+- #### `public` - This holds all of our static files
+- #### `src`
+    - #### `components`
+    - #### `store`
+    - #### `App.js`
+    - #### `index.js`
+- #### `package.json`
+#### `server` - Holds the server application
+- #### `.env`
+- #### `controllers`
+- #### `models`
+- #### `routes`
+- #### `app.js`
+#### `package.json`
+#### `.gitignore`
+#### `README` - This file!
+
 ## Available Scripts
 
 In the project directory, you can run:
